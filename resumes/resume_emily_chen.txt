@@ -1,0 +1,17 @@
+Emily Chen
+Data Engineer
+
+Summary:
+Data engineer with experience building data pipelines, ETL processes, and analytics platforms using Python and cloud tools.
+
+Experience:
+- Built data ingestion pipelines using Python and Airflow.
+- Optimized SQL queries and designed ETL jobs for analytics teams.
+- Worked with cloud storage and data warehousing solutions.
+
+Skills:
+Python, SQL, Airflow, Spark, AWS, Docker, pandas
+
+Contact:
+Email: emily.chen@example.com
+

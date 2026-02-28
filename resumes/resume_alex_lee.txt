@@ -1,0 +1,17 @@
+Alex Lee
+Full Stack Developer
+
+Summary:
+Full stack developer experienced in Python backends and modern JavaScript frontends. Focused on building maintainable, testable web applications.
+
+Experience:
+- Implemented RESTful APIs in Django and Flask.
+- Built frontend features with React and TypeScript.
+- Wrote integration tests and contributed to CI pipelines.
+
+Skills:
+Python, Django, Flask, JavaScript, React, TypeScript, Docker, PostgreSQL, pytest
+
+Contact:
+Email: alex.lee@example.com
+

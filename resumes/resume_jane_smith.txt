@@ -1,0 +1,17 @@
+Jane Smith
+Senior Backend Engineer
+
+Summary:
+Backend engineer specializing in scalable Python microservices, distributed systems, and observability.
+
+Experience:
+- Built microservices with FastAPI and Flask.
+- Designed event-driven architectures using Kafka and Redis.
+- Improved system monitoring and alerting.
+
+Skills:
+Python, FastAPI, Flask, Docker, Kubernetes, Redis, Kafka, SQL, Prometheus
+
+Contact:
+Email: jane.smith@example.com
+
